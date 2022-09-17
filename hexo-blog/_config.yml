@@ -102,4 +102,8 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/yaorongke/yaorongke.github.io.git
+  branch: hexo_dev
+  token: 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
+
